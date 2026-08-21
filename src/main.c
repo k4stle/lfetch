@@ -1,8 +1,3 @@
-/*
- *   Remaking bfetch for linux systems due to the same issues I had with
- * fastfetch on FreeBSD Probably wont open source this one since it's the same
- * shit just different OS type Idk tho lmao
- */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
